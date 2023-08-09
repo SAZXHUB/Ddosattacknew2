@@ -6,6 +6,6 @@ pkg install python3
 
 git clone https://github.com/SAZXHUB/Ddosattacknew2
 
-cd DDoS
+cd Ddosattacknew2
 
 python3 DDoS.py
