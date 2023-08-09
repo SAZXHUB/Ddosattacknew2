@@ -51,7 +51,7 @@ def startDS(wp, ch):
         else:
             print(Fore.YELLOW+"  [-] FAILED ")
     except:
-        print(Fore.RED+"  [×] Err !! ")
+        print(Fore.RED+"  [×] error or already attacked so up like this ")
 
 website = input("  WEBSITE ~> ").strip()
 ch = input("\n  choose 1 attack :\n\n  1- attack load styles. \n  2- attack v2 load scripts .\n")
