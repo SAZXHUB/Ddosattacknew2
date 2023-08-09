@@ -1,5 +1,3 @@
-how use ddos attack layer7
-
 how to use ddos attack layer7
 
 pkg install git
