@@ -45,3 +45,19 @@ pip install requests
 pip install colorama
 
 python3 DDoS2.py
+
+how to use spam call?
+
+pkg upgrade
+
+pkg update
+
+pkg install git
+
+pkg install python3
+
+git clone https://github.com/SAZXHUB/Ddosattacknew2
+
+cd Ddosattacknew2
+
+python3 spamcall.py
