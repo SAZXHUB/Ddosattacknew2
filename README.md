@@ -1,5 +1,7 @@
 how to use ddos attack layer7
 
+==============================
+
 v2
 
 pkg upgrade
@@ -21,6 +23,8 @@ pip install requests
 pip install colorama
 
 python3 DDoS.py
+
+=======÷====================
 
 Ddos 2 new
 
@@ -45,6 +49,8 @@ pip install requests
 pip install colorama
 
 python3 DDoS2.py
+
+=============================
 
 how to use spam call?
 
