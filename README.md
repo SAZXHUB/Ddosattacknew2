@@ -66,4 +66,8 @@ git clone https://github.com/SAZXHUB/Ddosattacknew2
 
 cd Ddosattacknew2
 
+pip install requests
+
+pip install colorama
+
 python3 spamcall.py
