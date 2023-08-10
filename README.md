@@ -1,4 +1,5 @@
 how to use ddos attack layer7
+วิธีการใช ddos layer8
 
 ==============================
 
@@ -27,7 +28,7 @@ python3 DDoS.py
 =======÷====================
 
 Ddos 2 new
-
+วิธีการใช้ ddos layer 7
 v1
 
 pkg upgrade
@@ -53,6 +54,7 @@ python3 DDoS2.py
 =============================
 
 how to use spam call?
+วิธีการใช้ สแปมโทร
 
 pkg upgrade
 
@@ -71,3 +73,5 @@ pip install requests
 pip install colorama
 
 python3 spamcall.py
+
+=====================
