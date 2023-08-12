@@ -17,6 +17,8 @@ pkg install git
 
 pkg install python3
 
+pkg install libexpat
+
 git clone https://github.com/SAZXHUB/Ddosattacknew2
 
 cd Ddosattacknew2
@@ -43,6 +45,8 @@ pkg install git
 
 pkg install python3
 
+pkg install libexpat
+
 git clone https://github.com/SAZXHUB/Ddosattacknew2
 
 cd Ddosattacknew2
@@ -68,6 +72,8 @@ pkg install git
 
 pkg install python3
 
+pkg install libexpat
+
 git clone https://github.com/SAZXHUB/Ddosattacknew2
 
 cd Ddosattacknew2
@@ -89,6 +95,8 @@ pkg update
 pkg install git
 
 pkg install python3
+
+pkg install libexpat
 
 git clone https://github.com/SAZXHUB/Ddosattacknew2
 
